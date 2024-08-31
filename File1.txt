@@ -1,5 +1,4 @@
 123
-commit text
 456
 768.
 Add Line >> File1.txt
@@ -11,3 +10,4 @@ File1.txt
 ]
 echo Add Line
 new branch line
+new line for gui
